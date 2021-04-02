@@ -1,6 +1,6 @@
 # Babyflix
 
-![Alt Text](https://github.com/Lucianamartins/app-babyflix/blob/main/babyflix/img/capaGit.png?raw=true)
+![Alt Text](https://github.com/Lucianamartins/app-babyflix/blob/main/babyflix/img/BABYFLIX.gif?raw=true)
 
 
 
